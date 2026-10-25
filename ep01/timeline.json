@@ -1,0 +1,781 @@
+{
+ "duration": 248.68,
+ "units": [
+  {
+   "text": "Я думал, что конец света начнётся с войны.",
+   "section": "НАЧАЛО КАТАСТРОФЫ",
+   "line_end": false,
+   "start": 0.2,
+   "end": 5.48,
+   "snapped": true
+  },
+  {
+   "text": "Или ядерного взрыва.",
+   "section": "НАЧАЛО КАТАСТРОФЫ",
+   "line_end": true,
+   "start": 5.75,
+   "end": 7.33,
+   "snapped": true
+  },
+  {
+   "text": "Но всё началось с обычного утра.",
+   "section": "НАЧАЛО КАТАСТРОФЫ",
+   "line_end": true,
+   "start": 7.85,
+   "end": 10.07,
+   "snapped": true
+  },
+  {
+   "text": "Сначала перестали работать телефоны.",
+   "section": "НАЧАЛО КАТАСТРОФЫ",
+   "line_end": false,
+   "start": 10.63,
+   "end": 12.96,
+   "snapped": true
+  },
+  {
+   "text": "Потом на улицах появились военные.",
+   "section": "НАЧАЛО КАТАСТРОФЫ",
+   "line_end": false,
+   "start": 13.39,
+   "end": 15.81,
+   "snapped": true
+  },
+  {
+   "text": "А через несколько часов люди начали нападать друг на друга.",
+   "section": "НАЧАЛО КАТАСТРОФЫ",
+   "line_end": true,
+   "start": 16.19,
+   "end": 19.73,
+   "snapped": true
+  },
+  {
+   "text": "Я видел, как мужчина укусил полицейского прямо посреди улицы.",
+   "section": "НАЧАЛО КАТАСТРОФЫ",
+   "line_end": false,
+   "start": 20.25,
+   "end": 24.37,
+   "snapped": true
+  },
+  {
+   "text": "Полицейский выстрелил в него три раза.",
+   "section": "НАЧАЛО КАТАСТРОФЫ",
+   "line_end": true,
+   "start": 24.63,
+   "end": 27.24,
+   "snapped": true
+  },
+  {
+   "text": "Он всё равно поднялся.",
+   "section": "НАЧАЛО КАТАСТРОФЫ",
+   "line_end": true,
+   "start": 27.59,
+   "end": 29.02,
+   "snapped": true
+  },
+  {
+   "text": "В тот момент я понял: это не болезнь, которую можно вылечить.",
+   "section": "НАЧАЛО КАТАСТРОФЫ",
+   "line_end": true,
+   "start": 29.51,
+   "end": 35.61,
+   "snapped": true
+  },
+  {
+   "text": "К вечеру город превратился в бойню.",
+   "section": "ГОРОД УМИРАЕТ",
+   "line_end": true,
+   "start": 36.18,
+   "end": 38.52,
+   "snapped": true
+  },
+  {
+   "text": "Машины горели.",
+   "section": "ГОРОД УМИРАЕТ",
+   "line_end": false,
+   "start": 38.86,
+   "end": 40.08,
+   "snapped": true
+  },
+  {
+   "text": "Люди ломились в магазины.",
+   "section": "ГОРОД УМИРАЕТ",
+   "line_end": false,
+   "start": 40.29,
+   "end": 42.05,
+   "snapped": true
+  },
+  {
+   "text": "Сирены звучали со всех сторон.",
+   "section": "ГОРОД УМИРАЕТ",
+   "line_end": true,
+   "start": 42.31,
+   "end": 44.49,
+   "snapped": true
+  },
+  {
+   "text": "Я бежал домой, не оглядываясь.",
+   "section": "ГОРОД УМИРАЕТ",
+   "line_end": false,
+   "start": 44.89,
+   "end": 46.71,
+   "snapped": true
+  },
+  {
+   "text": "Когда добрался до квартиры, сразу запер дверь и придвинул к ней шкаф.",
+   "section": "ГОРОД УМИРАЕТ",
+   "line_end": true,
+   "start": 46.99,
+   "end": 51.04,
+   "snapped": true
+  },
+  {
+   "text": "На телевизоре ещё работало экстренное вещание.",
+   "section": "ГОРОД УМИРАЕТ",
+   "line_end": true,
+   "start": 51.44,
+   "end": 54.21,
+   "snapped": true
+  },
+  {
+   "text": "«Не выходите на улицу.",
+   "section": "ГОРОД УМИРАЕТ",
+   "line_end": false,
+   "start": 54.62,
+   "end": 56.13,
+   "snapped": false
+  },
+  {
+   "text": "Не приближайтесь к заражённым.",
+   "section": "ГОРОД УМИРАЕТ",
+   "line_end": false,
+   "start": 56.13,
+   "end": 58.11,
+   "snapped": true
+  },
+  {
+   "text": "Если вас укусили…»",
+   "section": "ГОРОД УМИРАЕТ",
+   "line_end": true,
+   "start": 58.36,
+   "end": 59.85,
+   "snapped": true
+  },
+  {
+   "text": "Трансляция оборвалась.",
+   "section": "ГОРОД УМИРАЕТ",
+   "line_end": true,
+   "start": 60.4,
+   "end": 61.85,
+   "snapped": true
+  },
+  {
+   "text": "А потом в дверь моей квартиры кто-то постучал.",
+   "section": "ГОРОД УМИРАЕТ",
+   "line_end": true,
+   "start": 62.31,
+   "end": 65.12,
+   "snapped": true
+  },
+  {
+   "text": "Это была моя соседка.",
+   "section": "ГОРОД УМИРАЕТ",
+   "line_end": true,
+   "start": 65.6,
+   "end": 66.92,
+   "snapped": true
+  },
+  {
+   "text": "Она плакала и просила впустить её.",
+   "section": "ГОРОД УМИРАЕТ",
+   "line_end": true,
+   "start": 67.27,
+   "end": 69.56,
+   "snapped": true
+  },
+  {
+   "text": "Я уже потянулся к замку, когда заметил кое-что странное.",
+   "section": "ГОРОД УМИРАЕТ",
+   "line_end": true,
+   "start": 70.02,
+   "end": 75.3,
+   "snapped": true
+  },
+  {
+   "text": "Она не моргала.",
+   "section": "ГОРОД УМИРАЕТ",
+   "line_end": true,
+   "start": 75.89,
+   "end": 76.85,
+   "snapped": true
+  },
+  {
+   "text": "Я отступил от двери.",
+   "section": "ПЕРВАЯ НОЧЬ",
+   "line_end": true,
+   "start": 77.33,
+   "end": 78.66,
+   "snapped": true
+  },
+  {
+   "text": "Соседка перестала плакать.",
+   "section": "ПЕРВАЯ НОЧЬ",
+   "line_end": true,
+   "start": 79.0,
+   "end": 80.6,
+   "snapped": true
+  },
+  {
+   "text": "— Я знаю, что ты там, — сказала она.",
+   "section": "ПЕРВАЯ НОЧЬ",
+   "line_end": true,
+   "start": 81.08,
+   "end": 83.71,
+   "snapped": true
+  },
+  {
+   "text": "Её голос звучал совершенно нормально.",
+   "section": "ПЕРВАЯ НОЧЬ",
+   "line_end": false,
+   "start": 84.23,
+   "end": 86.67,
+   "snapped": true
+  },
+  {
+   "text": "Но потом она ударилась головой о дверь.",
+   "section": "ПЕРВАЯ НОЧЬ",
+   "line_end": true,
+   "start": 87.16,
+   "end": 89.48,
+   "snapped": true
+  },
+  {
+   "text": "Один раз.",
+   "section": "ПЕРВАЯ НОЧЬ",
+   "line_end": true,
+   "start": 89.82,
+   "end": 90.52,
+   "snapped": true
+  },
+  {
+   "text": "Второй.",
+   "section": "ПЕРВАЯ НОЧЬ",
+   "line_end": true,
+   "start": 90.78,
+   "end": 91.39,
+   "snapped": true
+  },
+  {
+   "text": "На третий раз я услышал хруст.",
+   "section": "ПЕРВАЯ НОЧЬ",
+   "line_end": true,
+   "start": 91.77,
+   "end": 93.85,
+   "snapped": true
+  },
+  {
+   "text": "Она начала смеяться.",
+   "section": "ПЕРВАЯ НОЧЬ",
+   "line_end": true,
+   "start": 94.3,
+   "end": 95.64,
+   "snapped": true
+  },
+  {
+   "text": "Я закрыл рот рукой, чтобы даже дыхание не выдало меня.",
+   "section": "ПЕРВАЯ НОЧЬ",
+   "line_end": true,
+   "start": 96.09,
+   "end": 99.4,
+   "snapped": true
+  },
+  {
+   "text": "Через несколько секунд за дверью стало тихо.",
+   "section": "ПЕРВАЯ НОЧЬ",
+   "line_end": true,
+   "start": 99.91,
+   "end": 102.57,
+   "snapped": true
+  },
+  {
+   "text": "Я посмотрел в глазок.",
+   "section": "ПЕРВАЯ НОЧЬ",
+   "line_end": true,
+   "start": 103.04,
+   "end": 104.31,
+   "snapped": true
+  },
+  {
+   "text": "Коридор был пуст.",
+   "section": "ПЕРВАЯ НОЧЬ",
+   "line_end": true,
+   "start": 104.72,
+   "end": 105.8,
+   "snapped": true
+  },
+  {
+   "text": "Но на полу остались кровавые следы, ведущие к лестнице.",
+   "section": "ПЕРВАЯ НОЧЬ",
+   "line_end": true,
+   "start": 106.19,
+   "end": 109.6,
+   "snapped": true
+  },
+  {
+   "text": "И ещё кое-что.",
+   "section": "ПЕРВАЯ НОЧЬ",
+   "line_end": true,
+   "start": 110.06,
+   "end": 111.11,
+   "snapped": true
+  },
+  {
+   "text": "Моя соседка оставила свой телефон у двери.",
+   "section": "ПЕРВАЯ НОЧЬ",
+   "line_end": true,
+   "start": 111.58,
+   "end": 114.16,
+   "snapped": true
+  },
+  {
+   "text": "На экране появилось новое сообщение.",
+   "section": "ПЕРВАЯ НОЧЬ",
+   "line_end": true,
+   "start": 114.61,
+   "end": 116.98,
+   "snapped": true
+  },
+  {
+   "text": "«НЕ ВЫХОДИ ИЗ КВАРТИРЫ»",
+   "section": "ПЕРВАЯ НОЧЬ",
+   "line_end": true,
+   "start": 117.37,
+   "end": 119.16,
+   "snapped": true
+  },
+  {
+   "text": "Отправитель был неизвестен.",
+   "section": "ПЕРВАЯ НОЧЬ",
+   "line_end": true,
+   "start": 119.56,
+   "end": 121.29,
+   "snapped": true
+  },
+  {
+   "text": "Я не понимал, кто мне пишет.",
+   "section": "НЕВОЗМОЖНОЕ СООБЩЕНИЕ",
+   "line_end": true,
+   "start": 121.8,
+   "end": 124.64,
+   "snapped": true
+  },
+  {
+   "text": "Сеть не работала уже несколько часов.",
+   "section": "НЕВОЗМОЖНОЕ СООБЩЕНИЕ",
+   "line_end": true,
+   "start": 125.08,
+   "end": 126.94,
+   "snapped": true
+  },
+  {
+   "text": "Я подошёл к окну.",
+   "section": "НЕВОЗМОЖНОЕ СООБЩЕНИЕ",
+   "line_end": false,
+   "start": 127.4,
+   "end": 129.1,
+   "snapped": true
+  },
+  {
+   "text": "Улица была забита брошенными машинами.",
+   "section": "НЕВОЗМОЖНОЕ СООБЩЕНИЕ",
+   "line_end": false,
+   "start": 129.43,
+   "end": 133.12,
+   "snapped": true
+  },
+  {
+   "text": "Между ними бродили десятки заражённых.",
+   "section": "НЕВОЗМОЖНОЕ СООБЩЕНИЕ",
+   "line_end": true,
+   "start": 133.59,
+   "end": 135.97,
+   "snapped": true
+  },
+  {
+   "text": "И вдруг все они одновременно остановились.",
+   "section": "НЕВОЗМОЖНОЕ СООБЩЕНИЕ",
+   "line_end": true,
+   "start": 136.3,
+   "end": 138.88,
+   "snapped": true
+  },
+  {
+   "text": "Будто услышали одну и ту же команду.",
+   "section": "НЕВОЗМОЖНОЕ СООБЩЕНИЕ",
+   "line_end": true,
+   "start": 139.26,
+   "end": 142.11,
+   "snapped": true
+  },
+  {
+   "text": "Затем каждый из них медленно повернул голову в сторону моего дома.",
+   "section": "НЕВОЗМОЖНОЕ СООБЩЕНИЕ",
+   "line_end": true,
+   "start": 142.33,
+   "end": 149.31,
+   "snapped": true
+  },
+  {
+   "text": "Я отшатнулся от окна.",
+   "section": "НЕВОЗМОЖНОЕ СООБЩЕНИЕ",
+   "line_end": true,
+   "start": 149.73,
+   "end": 151.18,
+   "snapped": true
+  },
+  {
+   "text": "Телефон завибрировал.",
+   "section": "НЕВОЗМОЖНОЕ СООБЩЕНИЕ",
+   "line_end": true,
+   "start": 151.52,
+   "end": 152.76,
+   "snapped": true
+  },
+  {
+   "text": "Второе сообщение:",
+   "section": "НЕВОЗМОЖНОЕ СООБЩЕНИЕ",
+   "line_end": true,
+   "start": 153.08,
+   "end": 154.35,
+   "snapped": true
+  },
+  {
+   "text": "«ОНИ ЗНАЮТ, ГДЕ ТЫ»",
+   "section": "НЕВОЗМОЖНОЕ СООБЩЕНИЕ",
+   "line_end": true,
+   "start": 154.79,
+   "end": 156.41,
+   "snapped": true
+  },
+  {
+   "text": "В этот момент в подъезде загорелся свет.",
+   "section": "НЕВОЗМОЖНОЕ СООБЩЕНИЕ",
+   "line_end": true,
+   "start": 156.91,
+   "end": 159.32,
+   "snapped": true
+  },
+  {
+   "text": "Кто-то начал подниматься по лестнице.",
+   "section": "НЕВОЗМОЖНОЕ СООБЩЕНИЕ",
+   "line_end": true,
+   "start": 159.67,
+   "end": 162.8,
+   "snapped": true
+  },
+  {
+   "text": "Медленно.",
+   "section": "НЕВОЗМОЖНОЕ СООБЩЕНИЕ",
+   "line_end": true,
+   "start": 162.97,
+   "end": 164.06,
+   "snapped": true
+  },
+  {
+   "text": "Шаг за шагом.",
+   "section": "НЕВОЗМОЖНОЕ СООБЩЕНИЕ",
+   "line_end": true,
+   "start": 164.41,
+   "end": 166.22,
+   "snapped": true
+  },
+  {
+   "text": "Но я жил на девятом этаже.",
+   "section": "НЕВОЗМОЖНОЕ СООБЩЕНИЕ",
+   "line_end": true,
+   "start": 166.72,
+   "end": 169.56,
+   "snapped": true
+  },
+  {
+   "text": "Я схватил рюкзак, фонарик и бутылку воды.",
+   "section": "ОН ПОДНИМАЕТСЯ",
+   "line_end": false,
+   "start": 170.0,
+   "end": 174.7,
+   "snapped": true
+  },
+  {
+   "text": "Запасного выхода не было.",
+   "section": "ОН ПОДНИМАЕТСЯ",
+   "line_end": false,
+   "start": 175.06,
+   "end": 176.57,
+   "snapped": true
+  },
+  {
+   "text": "Только окно и входная дверь.",
+   "section": "ОН ПОДНИМАЕТСЯ",
+   "line_end": true,
+   "start": 176.81,
+   "end": 178.64,
+   "snapped": true
+  },
+  {
+   "text": "Шаги остановились на восьмом этаже.",
+   "section": "ОН ПОДНИМАЕТСЯ",
+   "line_end": true,
+   "start": 179.05,
+   "end": 181.19,
+   "snapped": true
+  },
+  {
+   "text": "Я поднял фонарик и направил его на дверь.",
+   "section": "ОН ПОДНИМАЕТСЯ",
+   "line_end": true,
+   "start": 181.42,
+   "end": 184.19,
+   "snapped": true
+  },
+  {
+   "text": "Тишина.",
+   "section": "ОН ПОДНИМАЕТСЯ",
+   "line_end": true,
+   "start": 184.7,
+   "end": 185.31,
+   "snapped": true
+  },
+  {
+   "text": "Потом раздался голос:",
+   "section": "ОН ПОДНИМАЕТСЯ",
+   "line_end": true,
+   "start": 185.87,
+   "end": 187.62,
+   "snapped": true
+  },
+  {
+   "text": "— Эй.",
+   "section": "ОН ПОДНИМАЕТСЯ",
+   "line_end": false,
+   "start": 188.02,
+   "end": 188.36,
+   "snapped": true
+  },
+  {
+   "text": "Открой.",
+   "section": "ОН ПОДНИМАЕТСЯ",
+   "line_end": false,
+   "start": 188.8,
+   "end": 189.38,
+   "snapped": true
+  },
+  {
+   "text": "Я знаю, что ты там.",
+   "section": "ОН ПОДНИМАЕТСЯ",
+   "line_end": true,
+   "start": 189.75,
+   "end": 191.07,
+   "snapped": true
+  },
+  {
+   "text": "Я замер.",
+   "section": "ОН ПОДНИМАЕТСЯ",
+   "line_end": true,
+   "start": 191.43,
+   "end": 192.17,
+   "snapped": true
+  },
+  {
+   "text": "Это был мой голос.",
+   "section": "ОН ПОДНИМАЕТСЯ",
+   "line_end": true,
+   "start": 192.6,
+   "end": 193.99,
+   "snapped": true
+  },
+  {
+   "text": "Точно такой же, как мой.",
+   "section": "ОН ПОДНИМАЕТСЯ",
+   "line_end": true,
+   "start": 194.34,
+   "end": 195.85,
+   "snapped": true
+  },
+  {
+   "text": "За дверью кто-то тихо вздохнул.",
+   "section": "ОН ПОДНИМАЕТСЯ",
+   "line_end": true,
+   "start": 196.21,
+   "end": 198.44,
+   "snapped": true
+  },
+  {
+   "text": "— Пожалуйста…",
+   "section": "ОН ПОДНИМАЕТСЯ",
+   "line_end": false,
+   "start": 198.88,
+   "end": 199.68,
+   "snapped": true
+  },
+  {
+   "text": "они идут за мной.",
+   "section": "ОН ПОДНИМАЕТСЯ",
+   "line_end": true,
+   "start": 200.19,
+   "end": 201.28,
+   "snapped": true
+  },
+  {
+   "text": "Я отступил ещё на шаг.",
+   "section": "ОН ПОДНИМАЕТСЯ",
+   "line_end": true,
+   "start": 201.68,
+   "end": 203.28,
+   "snapped": true
+  },
+  {
+   "text": "Потому что в этот момент мой телефон сам включил фронтальную камеру.",
+   "section": "ОН ПОДНИМАЕТСЯ",
+   "line_end": true,
+   "start": 203.55,
+   "end": 207.52,
+   "snapped": true
+  },
+  {
+   "text": "На экране я увидел своё лицо.",
+   "section": "ОН ПОДНИМАЕТСЯ",
+   "line_end": true,
+   "start": 207.82,
+   "end": 210.25,
+   "snapped": true
+  },
+  {
+   "text": "И фигуру, стоящую прямо за моей спиной.",
+   "section": "ОН ПОДНИМАЕТСЯ",
+   "line_end": true,
+   "start": 210.56,
+   "end": 213.76,
+   "snapped": true
+  },
+  {
+   "text": "Я резко обернулся.",
+   "section": "КЛИФФХЭНГЕР",
+   "line_end": true,
+   "start": 214.11,
+   "end": 215.02,
+   "snapped": true
+  },
+  {
+   "text": "Никого.",
+   "section": "КЛИФФХЭНГЕР",
+   "line_end": true,
+   "start": 215.4,
+   "end": 216.63,
+   "snapped": true
+  },
+  {
+   "text": "Но когда снова посмотрел на экран, фигура стала ближе.",
+   "section": "КЛИФФХЭНГЕР",
+   "line_end": true,
+   "start": 216.98,
+   "end": 221.33,
+   "snapped": true
+  },
+  {
+   "text": "Я бросил телефон на пол и побежал к двери.",
+   "section": "КЛИФФХЭНГЕР",
+   "line_end": false,
+   "start": 221.58,
+   "end": 224.08,
+   "snapped": true
+  },
+  {
+   "text": "Мне нужно было выбраться.",
+   "section": "КЛИФФХЭНГЕР",
+   "line_end": false,
+   "start": 224.25,
+   "end": 225.87,
+   "snapped": false
+  },
+  {
+   "text": "Немедленно.",
+   "section": "КЛИФФХЭНГЕР",
+   "line_end": true,
+   "start": 225.87,
+   "end": 226.71,
+   "snapped": true
+  },
+  {
+   "text": "И тут на экране телефона появилось последнее сообщение:",
+   "section": "КЛИФФХЭНГЕР",
+   "line_end": true,
+   "start": 227.01,
+   "end": 230.59,
+   "snapped": true
+  },
+  {
+   "text": "«НЕ ДОВЕРЯЙ СЕБЕ»",
+   "section": "КЛИФФХЭНГЕР",
+   "line_end": true,
+   "start": 230.95,
+   "end": 232.25,
+   "snapped": true
+  },
+  {
+   "text": "Я замер.",
+   "section": "КЛИФФХЭНГЕР",
+   "line_end": true,
+   "start": 232.69,
+   "end": 233.4,
+   "snapped": true
+  },
+  {
+   "text": "Из темноты за спиной раздался шёпот:",
+   "section": "КЛИФФХЭНГЕР",
+   "line_end": true,
+   "start": 233.77,
+   "end": 236.18,
+   "snapped": true
+  },
+  {
+   "text": "— Наконец-то ты меня заметил.",
+   "section": "КЛИФФХЭНГЕР",
+   "line_end": true,
+   "start": 236.63,
+   "end": 238.36,
+   "snapped": true
+  },
+  {
+   "text": "Ручка входной двери медленно повернулась.",
+   "section": "КЛИФФХЭНГЕР",
+   "line_end": true,
+   "start": 238.78,
+   "end": 241.24,
+   "snapped": true
+  },
+  {
+   "text": "А затем я услышал собственный голос прямо у своего уха:",
+   "section": "КЛИФФХЭНГЕР",
+   "line_end": true,
+   "start": 241.53,
+   "end": 245.4,
+   "snapped": true
+  },
+  {
+   "text": "— Мы уже внутри.",
+   "section": "КЛИФФХЭНГЕР",
+   "line_end": true,
+   "start": 245.75,
+   "end": 246.79,
+   "snapped": true
+  },
+  {
+   "text": "Экран погас.",
+   "section": "КЛИФФХЭНГЕР",
+   "line_end": true,
+   "start": 247.29,
+   "end": 248.44,
+   "snapped": true
+  }
+ ]
+}
